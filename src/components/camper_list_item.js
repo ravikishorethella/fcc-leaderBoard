@@ -13,4 +13,3 @@ const CamperListItem = ({ camper, number }) => {
 
 export default CamperListItem;
 
-{/* <img src={`{camper.img}`}> */ }
